@@ -1,16 +1,25 @@
-## Hi there 👋
+Shademix
+A free colour toolkit for designers and decorators.
+Sample any colour from a photo, screen, or live camera and match it across
+10 reference systems — RAL, NCS, Munsell, HKS, Federal Standard 595,
+Pantone-equivalent and more — then work with it in HEX, RGB, OKLCH, LAB,
+CMYK and back. OKLCH-native harmonies, WCAG full-pairwise contrast, a
+colour-blindness simulator, CMYK gamut warnings, and 11 export formats.
+19 languages. No account, no telemetry, no ads. Free on every platform.
 
-<!--
-**shademixapp/shademixapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Try it
 
-Here are some ideas to get you started:
+🎨 Web app — shademix.com
+📱 iPhone · iPad · Mac · Apple Vision Pro — App Store
+📖 Guides & reviews — shademix.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Elsewhere
+
+X — @Shademixapp
+Bluesky — @shademixapp.bsky.social
+Mastodon — @shademixapp@mastodon.social
+Support — support@shademix.com
+
+
+<sub>Built by an independent maker. Privacy-first by design — colours never leave your device.</sub>
+<sub>Brand palette: #ff5e7e · #ffb547 · #3ec1ff on #0e0f12</sub>
